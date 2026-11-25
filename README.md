@@ -242,16 +242,17 @@ Intelligent_Waste_Segregation/
 │   ├── moisture_by_waste.png
 │   ├── bin_fill_collection.png
 │   └── model_accuracy_comparison.png
+├── src/
+│   ├── check_dataset.py
+│   ├── data_exploration.py
+│   ├── eval.py
+│   ├──train_models.py 
 │
-├── test_libraries.py
-├── check_dataset.py
-├── data_exploration.py
 ├── preprocessing.py
-├── train_models.py
-├── evaluation.py
-├── model_visualization.py
+├── model_comparison.py
 ├── main.py
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ---
