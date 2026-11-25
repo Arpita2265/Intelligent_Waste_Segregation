@@ -1,0 +1,10 @@
+Waste_Weight,Moisture,Recyclability,Material_Density,Bin_Fill_Level,Days_Since_Collection,Waste_Type_Glass,Waste_Type_Metal,Waste_Type_Organic,Waste_Type_Paper,Waste_Type_Plastic
+4.5,32,1,0.8,92,6,0,0,0,1,0
+7.0,5,1,6.5,70,4,0,1,0,0,0
+2.5,30,1,0.7,60,3,0,0,0,1,0
+1.8,20,1,0.6,32,2,0,0,0,1,0
+6.0,4,1,2.5,88,6,1,0,0,0,0
+4.5,5,1,5.2,20,1,0,1,0,0,0
+4.0,65,0,1.1,50,3,0,0,1,0,0
+6.5,90,0,1.0,98,7,0,0,1,0,0
+3.0,85,0,1.0,35,2,0,0,1,0,0

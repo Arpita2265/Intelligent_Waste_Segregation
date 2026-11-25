@@ -1,0 +1,7 @@
+Model,Accuracy
+Waste Decision Tree,100.0
+Waste Random Forest,100.0
+Waste SVM,44.44
+Collection Decision Tree,100.0
+Collection Random Forest,100.0
+Collection SVM,88.89
